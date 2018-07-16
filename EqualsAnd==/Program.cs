@@ -12,6 +12,7 @@ namespace EqualsAnd__
         {
             {
                 // Create two equal but distinct strings
+                // Create two equal but distinct strings
                 string a = new string(new char[] { 'h', 'e', 'l', 'l', 'o' });
                 string b = new string(new char[] { 'h', 'e', 'l', 'l', 'o' });
 
